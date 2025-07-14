@@ -5,7 +5,6 @@
         if indexOf2 == -1: return s[indexOf+1:]
         if indexOf2 < indexOf: return None
         return s[indexOf+1:indexOf2]
-
     def m64150a(bArr):
         n = len(bArr)
         cArr = ["\00"] * (n * 2)

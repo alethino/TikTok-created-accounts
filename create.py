@@ -38,8 +38,6 @@ def m135436d(s):
                 if c != None and len(c) > 0:
                     str5 = m64163a(c)
 
-
-
     if a is None or len(a) == 0: a = "00000000000000000000000000000000"
     if str3 is None or len(str3) == 0: str3 = "00000000000000000000000000000000"
     if str4 is None or len(str4) == 0: str4 = "00000000000000000000000000000000"
